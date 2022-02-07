@@ -38,3 +38,10 @@ Its possible save the favorite news and search news by subject.
 - Coroutines for the data base access and api calls
 - Navigation and LiveData (Jetpack Components)
 
+
+
+
+
+https://user-images.githubusercontent.com/32374149/152793902-f64e8e15-f9d9-4072-bb1b-c2bc7dd15c03.mp4
+
+
